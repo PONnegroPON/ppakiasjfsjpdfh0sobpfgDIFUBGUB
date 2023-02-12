@@ -1,0 +1,92 @@
+body {
+    font-family: sans-serif;
+    background-image: url("https://phonoteka.org/uploads/posts/2021-05/1620733614_24-phonoteka_org-p-pirogi-fon-26.jpg")
+}
+
+
+nav a{
+    text-decoration: none;
+    background-color: #E77D1E;
+    color: #F3BE55;
+    border-radius: 5px;
+    padding: 6px;
+    margin: 30px;
+}
+
+nav {
+    background-color: #E77D1E;
+}
+
+header a{
+    text-decoration: none;
+    background-color: #E77D1E;
+    color: #F3BE55;
+    border-radius: 10px;
+    padding: 5px;
+}
+
+
+header b{
+    color: #E77D1E;
+}
+
+header {
+    background-color: #E7A41E;
+    padding: 15px;
+    border-radius: 20px;
+    border: 2px solid #964C0A
+}
+
+h1{
+    text-align: center;
+    color:#E7A41E;
+    font-family: cursive;
+    background-color: #E77D1E;
+    padding: 5px;
+    border: 2px solid #964C0A;
+    border-radius: 500px;
+    text-transform: uppercase;
+}
+
+footer {
+    background-color: #E77D1E;
+    color: white;
+    padding: 15px;
+    border: 2px solid #96670A;
+    border-radius: 5px;
+}
+
+.pon {
+    background-color: #E77D1E;
+    padding: 10px;
+    border: 1px solid #96670A;
+    border-radius: 5px;
+}
+
+.nigga {
+    background-color: #E77D1E;
+}
+
+.pon2 {
+    color: white;
+    background-color: #E77D1E;
+    padding: 5px;
+    border: 1px solid #96670A;
+    border-radius: 10px;
+    text-align: center;
+}
+
+a {
+    text-decoration: none;
+    background-color: #E77D1E;
+    padding: 10px;
+    color: black;
+    margin: 4px;
+    border-radius: 5px;
+}
+
+p {
+    font-size: 20px;
+    background-color: #E77D1E;
+    color: white;
+}
